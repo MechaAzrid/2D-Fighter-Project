@@ -13,15 +13,15 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Ally
+  - NPC
+  - Background
+  - Midground
+  - Foreground
+  - Ground
+  - 'Interactable '
   - 
   - 
   - 
@@ -47,6 +47,24 @@ TagManager:
   - name: Enemy
     uniqueID: 2962508591
     locked: 0
-  - name: Background
+  - name: Ally
     uniqueID: 238854375
+    locked: 0
+  - name: NPC
+    uniqueID: 3845903943
+    locked: 0
+  - name: Background
+    uniqueID: 21094627
+    locked: 0
+  - name: Midground
+    uniqueID: 689466885
+    locked: 0
+  - name: Foreground
+    uniqueID: 3612356987
+    locked: 0
+  - name: Ground
+    uniqueID: 3111997925
+    locked: 0
+  - name: Interactable
+    uniqueID: 3104954229
     locked: 0
